@@ -1,0 +1,52 @@
+p{
+    all: unset;
+}
+
+.bg-default{
+    background-color: #393939;
+}
+
+.bg-estudos{
+    background-color: #46AAD9;
+    
+}
+
+.border-estudos{
+    border: 2px solid #46AAD9;
+}
+
+.bg-trabalho{
+    background-color: #55D946;
+}
+
+.border-trabalho{
+    border: 2px solid #55D946;
+}
+
+.bg-dia-a-dia{
+    background-color: #DCDF48;
+}
+
+.border-dia-a-dia{
+    border: 2px solid #DCDF48;
+}
+
+.bg-outros{
+    background-color: #D946AD;
+}
+
+.border-outros{
+    border: 2px solid #D946AD;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.shadow-sections{
+    box-shadow: -4px 4px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
