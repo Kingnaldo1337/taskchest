@@ -1,0 +1,28 @@
+{
+  "name": "taskchest",
+  "version": "1.0.0",
+  "description": "Web app para gerenciar tarefas diárias",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usuariotaynara123/TaskChest.git"
+  },
+  "author": "IFRN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usuariotaynara123/TaskChest/issues"
+  },
+  "homepage": "https://github.com/Usuariotaynara123/TaskChest#readme",
+  "devDependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.5"
+  }
+}
